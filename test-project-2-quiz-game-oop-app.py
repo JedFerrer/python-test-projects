@@ -72,6 +72,6 @@ class QuizGame:
                 self.score = 0
 
 
-# Run the calculator
+# Run the quiz game
 if __name__ == "__main__":
     QuizGame().run()
